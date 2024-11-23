@@ -50,10 +50,10 @@ POST {{ContosoPizza_HostAddress}}/pizza/
 Content-Type: application/json
 
 {
-    "name": "Hawaiian",
+    "name": "Ghanaian Classic",
     "isGlutenFree": false
 }
 
 ### // the separator is very important here
-GET {{ContosoPizza_HostAddress}}/pizza/4
+GET {{ContosoPizza_HostAddress}}/pizza/
 Accept: application/json
