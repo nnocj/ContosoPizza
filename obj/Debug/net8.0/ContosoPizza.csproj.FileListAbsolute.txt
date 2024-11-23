@@ -34,3 +34,4 @@ C:\Users\HP\Documents\ContosoPizza\bin\Debug\net8.0\ContosoPizza.runtimeconfig.j
 C:\Users\HP\Documents\ContosoPizza\bin\Debug\net8.0\ContosoPizza.pdb
 C:\Users\HP\Documents\ContosoPizza\obj\Debug\net8.0\ContosoPizza.genruntimeconfig.cache
 C:\Users\HP\Documents\ContosoPizza\obj\Debug\net8.0\ref\ContosoPizza.dll
+C:\Users\HP\Documents\ContosoPizza\obj\Debug\net8.0\ContosoPizza.sourcelink.json
